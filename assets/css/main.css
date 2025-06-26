@@ -444,6 +444,15 @@ img {
   max-width: 100%;
 }
 
+.social {
+  display: block;
+  padding-left: 30px;
+}
+
+.social a {
+  padding-left: 3rem !important;
+}
+
 /*=============================
     Keyframe Animation
 ===============================*/
@@ -2802,6 +2811,9 @@ textarea {
     top: 16px;
     right: 24px;
   }
+  .social {
+    display: none;
+  }
 }
 @media (max-width: 768px) {
   .burger-icon {
@@ -2908,6 +2920,7 @@ textarea {
 }
 
 .navbar {
+  position: sticky;
   padding: 0.5rem;
   background-color: var(--tc-theme-primary-1);
 }
