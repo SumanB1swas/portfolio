@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <!-- Homepage -->
    <url>
       <loc>https://motionbysuman.in/</loc>
-      <lastmod>2025-08-22</lastmod>
+      <lastmod>2025-08-28T00:00:00+00:00</lastmod>
       <priority>1.00</priority>
    </url>
+
+   <!-- Favicon -->
+   <url>
+      <loc>https://motionbysuman.in/assets/imgs/template/favicon-512.png</loc>
+      <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+
 </urlset>
